@@ -1,6 +1,3 @@
-Here is the content for your README.md file:
-
-```markdown
 # Duplicate Line Removal Script
 
 ## Description
